@@ -1,0 +1,52 @@
+{
+  "basiclanding": {
+    "category": "master",
+    "subtitle": "tudtardis.basicremat",
+    "sounds": [
+      {
+        "name": "tudtardis:basiclanding",
+        "stream": false
+      }
+    ]
+  },
+  "demat": {
+    "category": "master",
+    "subtitle": "tudtardis.demat",
+    "sounds": [
+      {
+        "name": "tudtardis:demat",
+        "stream": false
+      }
+    ]
+  },
+  "fly": {
+    "category": "master",
+    "subtitle": "tudtardis.fly",
+    "sounds": [
+      {
+        "name": "tudtardis:fly",
+        "stream": false
+      }
+    ]
+  },
+  "cloister": {
+    "category": "master",
+    "subtitle": "tudtardis.cloister",
+    "sounds": [
+      {
+        "name": "tudtardis:cloister",
+        "stream": false
+      }
+    ]
+  },
+  "denied": {
+    "category": "master",
+    "subtitle": "tudtardis.denied",
+    "sounds": [
+      {
+        "name": "tudtardis:denied",
+        "stream": false
+      }
+    ]
+  }
+}
